@@ -4,20 +4,23 @@
         "title": "에어 조던 1 레트로 하이 OG",
         "imgUrl": "img/nike/nike7.jpg",
         "content": "남성 신발",
-        "price": 3209000
+        "price": 3209000,
+        "count":1
     },
     {
         "id": 8,
         "title": "줌X 인빈서블 런 플라이니트 2",
         "imgUrl": "img/nike/nike8.jpg",
         "content": "남성 로드 러닝화",
-        "price": 199000
+        "price": 199000,
+        "count":1
     },
     {
         "id": 9,
         "title": "나이키 TC 7900",
         "imgUrl": "img/nike/nike9.jpg",
         "content": "여성 신발",
-        "price": 139000
+        "price": 139000,
+        "count":1
     }
 ]
